@@ -6,7 +6,8 @@ Code for the paper *Goal-Aware Prediction: Learning to Model what Matters. Suraj
 
 First, generate a dataset using random exploration. 
 ```
-python collect_data.py 
+python collect_data.py --id data_block_env --env OurEnvMany-v0  --seed-episodes 2000
+python collect_data.py --id data_door_env --env OurDoor-v0  --seed-episodes 2000
 ```
 
 ## Train Model
