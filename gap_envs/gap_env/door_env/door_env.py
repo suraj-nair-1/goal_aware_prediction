@@ -91,7 +91,6 @@ class SawyerDoorEnv(SawyerXYZEnv):
       
     @property
     def model_name(self):
-#       export ASSETS_PATH=/iris/u/surajn/workspace/PlaNet/env_many/assets/
       path = os.environ['ASSETS_PATH']
       return path + "sawyer_xyz/sawyer_door_pull.xml"
   
