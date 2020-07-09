@@ -46,3 +46,5 @@ Train a GAP model on the generated dataset
 ```
 python train_gap.py --id trained_gap_door --env GapDoor-v0 --experience-replay results/data_door_env/experience.pth --hidden-size 256 --batch-size 32 --chunk-size 30
 ```
+
+Parts of this code are build off [this](https://github.com/Kaixhin/PlaNet) implementation of PlaNet.
