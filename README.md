@@ -1,6 +1,6 @@
 # Goal-Aware Prediction: Learning to Model What Matters (GAP)
 
-Code for the paper [Goal-Aware Prediction: Learning to Model what Matters.](https://proceedings.icml.cc/static/paper_files/icml/2020/2981-Paper.pdf) Suraj Nair, Silvio Savarese, Chelsea Finn. *ICML 2020*
+Code for the paper [Goal-Aware Prediction: Learning to Model what Matters.](https://arxiv.org/abs/2007.07170) Suraj Nair, Silvio Savarese, Chelsea Finn. *ICML 2020*
 
 ## Setup
 
